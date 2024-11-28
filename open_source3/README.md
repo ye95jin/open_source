@@ -8,6 +8,6 @@
 
 - **Skills** : React, Hook, JavaScript Fetch API
 
-- **Github** :
+- **Github** : [https://github.com/ye95jin/open_source/tree/main/open_source3](https://github.com/ye95jin/open_source/tree/main/open_source3)
 
-- **Link** :
+- **Link** : [https://open-source3.vercel.app/](https://open-source3.vercel.app/)

@@ -8,6 +8,6 @@
 
 - **Skills** : React, Hook, JavaScript map()
 
-- **Github** :
+- **Github** : [https://github.com/ye95jin/open_source/tree/main/open_source14](https://github.com/ye95jin/open_source/tree/main/open_source14)
 
-- **Link** :
+- **Link** : [https://open-source14.vercel.app/](https://open-source14.vercel.app/)

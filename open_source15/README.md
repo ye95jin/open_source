@@ -8,6 +8,6 @@
 
 - **Skills** : React, Hook, JavaScript sort()
 
-- **Github** :
+- **Github** : [https://github.com/ye95jin/open_source/tree/main/open_source15](https://github.com/ye95jin/open_source/tree/main/open_source15)
 
-- **Link** :
+- **Link** : [https://open-source15.vercel.app/](https://open-source15.vercel.app/)

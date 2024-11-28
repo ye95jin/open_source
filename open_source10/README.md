@@ -8,6 +8,6 @@
 
 - **Skills** : React, JavaScript Fetch API, JavaScript map()
 
-- **Github** :
+- **Github** : [https://github.com/ye95jin/open_source/tree/main/open_source10](https://github.com/ye95jin/open_source/tree/main/open_source10)
 
-- **Link** :
+- **Link** : [https://open-source10-sigma.vercel.app/](https://open-source10-sigma.vercel.app/)
